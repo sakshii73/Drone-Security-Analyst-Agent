@@ -1,0 +1,121 @@
+[
+    {
+        "frame": "frame_001.jpg",
+        "description": "A person is standing near the main gate."
+    },
+    {
+        "frame": "frame_001.jpg",
+        "description": "Frame analysis pending"
+    },
+    {
+        "frame": "frame_001.jpg",
+        "description": "Frame analysis pending"
+    },
+    {
+        "frame": "frame_001.jpg",
+        "description": "A person is standing near the main gate."
+    },
+    {
+        "frame": "frame_001.jpg",
+        "description": "A person is standing near the main gate."
+    },
+    {
+        "frame": "frame_001.png",
+        "description": "Based on the security camera footage, here is a detailed analysis of the scene:\n\n### 1. Scene & Environment\n* **Location:** The entrance/exit security checkpoint of a modern residential or commercial building complex. \n* **Infrastructure:** \n  * A grey tiled guard booth with large glass windows and an external security camera mounted on top.\n  * An automated orange barrier gate arm extended horizontally across the driveway.\n  * A black metal sliding gate open on the right side.\n  * A yellow and black rubber speed bump installed across the paved driveway.\n  * Landscaping with manicured hedges and trees in the background and foreground.\n\n### 2. People & Activities\n* **Individuals Present:** One person is visible.\n  * **Description:** A young man with dark hair and a short beard.\n  * **Attire:** White long-sleeved button-up shirt, black trousers, and white sneakers.\n  * **Accessories:** Carrying a black backpack over his left shoulder.\n* **Activity:** He is actively walking through the pedestrian area near the guard house toward the foreground, turning his head slightly back to look toward the entry gate. \n\n### 3. Vehicles\n* Three vehicles are visible, all parked in designated spots in the background parking area:\n  1. A **white sedan** parked facing right.\n  2. A **dark grey SUV** parked next to the white sedan.\n  3. A **second white sedan/hatchback** parked further back along the tree line.\n* No moving vehicles are present in the immediate driveway area.\n\n### 4. Unusual Observations / Technical Discrepancies\n* **Timestamp Mismatch:** The camera overlay in the upper-left corner displays the date and time as **`2026-11-25 00:15:00`** (12:15 AM / midnight). However, the visual evidence clearly shows bright, direct daylight with short shadows and blue skies. This indicates an incorrect system clock setting or camera firmware issue.\n* **No Security Guard Visible:** The guard booth appears empty through the windows, though the main gate is open and the barrier arm is down.",
+        "timestamp": "2026-11-25 00:15:00",
+        "location": "Main Gate",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "altitude": 50
+    },
+    {
+        "frame": "frame_001.png",
+        "description": "Based on the security camera footage, here is a detailed breakdown of the scene:\n\n### 1. People and Activities\n* **Pedestrian:** A young man with dark hair and a beard is walking out of the premises, past the security booth. \n  * **Attire:** White long-sleeved button-up shirt (sleeves rolled up), black trousers, white sneakers, carrying a black backpack over his left shoulder.\n  * **Activity:** He is walking normally toward the camera's direction, looking slightly to his left. His demeanor appears routine and calm.\n\n### 2. Vehicles\n* **Parked Cars:** Three stationary vehicles are visible in the background driveway/parking area:\n  1. A white sedan (closest to the barrier).\n  2. A dark grey/charcoal SUV.\n  3. A white SUV/hatchback parked further in the background.\n* **Vehicle Movement:** No active vehicle movement is occurring in the frame.\n\n### 3. Environment & Infrastructure\n* **Security Checkpoint:** A modern grey stone security guard house equipped with a top-mounted CCTV camera.\n* **Gates & Barriers:** The main black metal vehicular gate is open, while the motorized boom barrier arm (red and white) is lowered across the vehicle lane. \n* **Surrounding Area:** A clean asphalt/concrete driveway with a yellow-and-black speed bump, manicured green hedges, trees, and a multi-story modern building in the background.\n\n### 4. Technical Anomalies & Unusual Observations\n* **Timestamp Discrepancy:** The overlay in the top-left corner reads **`2026-11-25 00:15:00`** (midnight). However, the scene clearly shows bright daylight with direct sunlight and sharp shadows. The camera's system clock or AM/PM setting appears to be misconfigured.\n* **Behavior:** No suspicious activity, forced entry, or unusual visual behavior is evident.",
+        "timestamp": "2026-11-25 00:15:00",
+        "location": "Main Gate",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "altitude": 50
+    },
+    {
+        "frame": "frame_001.png",
+        "description": "Based on the security camera footage, here is a detailed analysis of the scene:\n\n### 1. Setting and Environment\n* **Location:** The entrance/exit gate of a modern residential or commercial building complex. \n* **Infrastructure:** Includes a granite-clad security booth with an attached CCTV camera, an orange automated boom barrier arm (currently lowered), a black metal gate (open), a speed bump across the driveway, and landscaped greenery.\n* **Lighting:** Bright, natural daylight with clear shadows.\n\n### 2. People and Activities\n* **Individual Present:** One male walking through the entrance area on foot.\n  * **Appearance:** He has dark hair, a neat beard/stubble, and is dressed in a clean white button-up shirt, black trousers, and white sneakers. He is carrying a black backpack over his left shoulder.\n  * **Activity:** He is walking at a calm, normal pace away from the security booth area toward the foreground. His demeanor and posture appear relaxed and routine (e.g., student, employee, or resident entering/leaving the property).\n\n### 3. Vehicles\n* **Parked Cars (Background):** Three vehicles are parked in designated areas behind the barrier arm:\n  * A white sedan facing left.\n  * A dark grey SUV parked next to it.\n  * Another white car parked further in the background.\n* **Vehicle Activity:** None of the vehicles are currently moving or attempting to pass through the barrier.\n\n### 4. Technical / Discrepancies (Unusual Observations)\n* **Timestamp Glitch:** The top-left camera overlay reads `2026-11-25 00:15:00` (12:15 AM / Midnight). However, the scene is clearly captured in full daylight with strong sunlight. This indicates a **camera clock configuration error** or system time synchronization issue.\n\n### Summary\nThe scene depicts routine, normal foot traffic at a security checkpoint during daytime hours. There is no visual evidence of suspicious activity, unauthorized access attempts, or security threats. The only anomaly is the incorrect camera timestamp overlay.",
+        "timestamp": "2026-11-25 00:15:00",
+        "location": "Main Gate",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "altitude": 50
+    },
+    {
+        "frame": "frame_001.png",
+        "description": "A pedestrian carrying a backpack is walking normally past an entrance gate security booth. The environment is orderly with parked vehicles in the background. No suspicious activity observed, though there is a timestamp lighting anomaly.",
+        "structured_analysis": {
+            "people_count": 1,
+            "vehicle_count": 3,
+            "activities": [
+                "A person wearing a white shirt and backpack walking past the security booth entrance",
+                "Vehicles parked in the background parking area"
+            ],
+            "suspicious_activity": false,
+            "suspicious_activity_evidence": "None",
+            "environment": "Daytime outdoor entrance of a commercial or residential complex with a security guard post, automated barrier gate, speed bump, and parking area.",
+            "technical_anomalies": [
+                "Timestamp shows 00:15:00 (midnight), which contradicts the bright daylight conditions visible in the scene."
+            ],
+            "security_summary": "A pedestrian carrying a backpack is walking normally past an entrance gate security booth. The environment is orderly with parked vehicles in the background. No suspicious activity observed, though there is a timestamp lighting anomaly."
+        },
+        "timestamp": "2026-11-25 00:15:00",
+        "location": "Main Gate",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "altitude": 50
+    },
+    {
+        "frame": "frame_001.png",
+        "description": "A man carrying a backpack is walking normally past the security post entrance. Three parked vehicles are visible in the background driveway area. No suspicious activity is observed, though there is a timestamp inconsistency on the video feed.",
+        "structured_analysis": {
+            "people_count": 1,
+            "vehicle_count": 3,
+            "activities": [
+                "A man carrying a backpack walking past the security booth near the entrance gate"
+            ],
+            "suspicious_activity": false,
+            "suspicious_activity_evidence": "None",
+            "environment": "Outdoor entrance driveway of a modern building complex with a security booth, boom barrier, open gate, and parking area during daylight",
+            "technical_anomalies": [
+                "Timestamp shows 00:15:00 (midnight), which contradicts the bright daylight visible in the image"
+            ],
+            "security_summary": "A man carrying a backpack is walking normally past the security post entrance. Three parked vehicles are visible in the background driveway area. No suspicious activity is observed, though there is a timestamp inconsistency on the video feed."
+        },
+        "timestamp": "2026-11-25 00:15:00",
+        "location": "Main Gate",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "altitude": 50
+    },
+    {
+        "frame": "frame_002.png",
+        "description": "The multi-frame footage depicts three individuals walking normally through different areas of a property complex. No suspicious behavior or unauthorized access is visible. A technical anomaly exists regarding daylight visuals paired with midnight timestamps.",
+        "structured_analysis": {
+            "people_count": 3,
+            "vehicle_count": 6,
+            "activities": [
+                "A man in a white shirt walking near the main gate booth",
+                "A man in a black shirt walking across the parking area",
+                "A woman in a black shirt and jeans walking toward the building entrance"
+            ],
+            "suspicious_activity": false,
+            "suspicious_activity_evidence": "",
+            "environment": "outdoor residential or commercial complex featuring a main entrance gate, parking area, and building entrance",
+            "technical_anomalies": [
+                "Lighting and timestamp discrepancy: The camera timestamps indicate midnight (00:15:00 - 00:25:00), but the visual scenes are captured in full daylight."
+            ],
+            "security_summary": "The multi-frame footage depicts three individuals walking normally through different areas of a property complex. No suspicious behavior or unauthorized access is visible. A technical anomaly exists regarding daylight visuals paired with midnight timestamps."
+        },
+        "timestamp": "2026-11-25 00:20:00",
+        "location": "Parking Area",
+        "latitude": 19.9978,
+        "longitude": 73.7901,
+        "altitude": 55
+    }
+]

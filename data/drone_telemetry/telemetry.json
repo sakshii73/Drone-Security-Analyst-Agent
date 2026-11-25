@@ -1,0 +1,19 @@
+
+[
+    {
+        "frame": "frame_001.png",
+        "timestamp": "2026-11-25 00:15:00",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "altitude": 50,
+        "location": "Main Gate"
+    },
+    {
+        "frame": "frame_002.png",
+        "timestamp": "2026-11-25 00:20:00",
+        "latitude": 19.9978,
+        "longitude": 73.7901,
+        "altitude": 55,
+        "location": "Parking Area"
+    }
+]
